@@ -36,7 +36,7 @@
   text-decoration: none;
 }
 #sidebar ul li a:hover {
-  color: rgb(255, 252, 97);
+  color: rgb(158, 157, 91);
 }
 #sidebar .toggle-btn {
   position: absolute;
@@ -57,6 +57,6 @@
   display: block;
   width: 25px;
   height: 4px;
-  background-color: #666;
+  background-color: #667;
   margin: 4px 0;
 }
